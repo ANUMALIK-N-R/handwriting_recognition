@@ -1,7 +1,0 @@
-libglib2.0-0
-libsm6
-libxext6
-libxrender-dev
-libjpeg-dev
-zlib1g-dev
-libfreetype6-dev
