@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image, ImageOps
 
 # Load model
-model = joblib.load("model.joblib")
+model = joblib.load("model.pkl")
 label_map = {0: 3, 1: 5}
 
 st.title("Digit Classifier: 3 vs 5")
